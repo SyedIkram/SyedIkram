@@ -1,7 +1,7 @@
 ### Hello Coders, This is Ikram 👋
 #### Data Scientist with 3+ years of software engineering experience, and extensive exposure to Big Data Analytics.
 
-<h3>Professional Experience💻</h3>
+<h4>Professional Experience💻</h4>
 <details>
 <summary>Machine Learning Intern (Data Recommendation) at <a href="https://flipboard.com/"> Flipboard</a> 🤖 </summary>
   <ul>
