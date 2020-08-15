@@ -10,6 +10,12 @@
     <li>Enhanced searchability of topics generated from the topic extractor based on its velocity.</li>
     <li>Designed, developed, and productionized an end to end machine learning project “Listicle classifier for news articles” with Python/PyTorch/AWS and integrated it into the Flipboard’s news feed extractor pipeline.</li>
   </ul>
+<summary>Software Engineer at <a href="https://www.oracle.com/in/index.html"> Oracle Systems</a> 🤖 </summary>
+  <ul>
+    <li>Part of Interop specialist team responsible for qualifying different operating systems (Linux, Solaris, AIX, Windows, and Mac OS)  for various protocols (1G, 10G, IPoIB, FC, iSER, RDMA), patches and kernel versions for Z File System (ZFS) Storage family of products.</li>
+    <li>Built extensive testing procedures as a part of the ZFS automation test by creating API modules and playlists for test cases, ensuring that errors are reported and fixed prior to the release.</li>
+    <li>Led an agile project for simulation of high-priority customer-facing software failures scenarios and developed testing methodologies for software upgrade scenarios with functional and regression tests.</li>
+  </ul>
 </details>
 <!--
 **SyedIkram/SyedIkram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
