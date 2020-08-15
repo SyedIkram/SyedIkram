@@ -1,4 +1,5 @@
 ### Hello Coders, This is Ikram 👋
+## Data Scientist with 3+ years of software engineering experience, and extensive exposure to Big Data Analytics.
 
 <!--
 **SyedIkram/SyedIkram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
