@@ -3,7 +3,7 @@
 
 <h4>Professional Experience💻</h4>
 <details>
-<summary>Machine Learning Intern (Data Recommendation) at <a href="https://flipboard.com/"> Flipboard - Sep'19-Dec'19</a> 🤖 </summary>
+<summary>Machine Learning Intern (Data Recommendation) at <a href="https://flipboard.com/"> Flipboard </a> - Sep'19-Dec'19 🤖 </summary>
   <ul>
     <li>Developed and shipped new product capability (AutoGen package) for the core product, to generate top recommended articles monthly for each topic in Flipboard’s database. Deployed article recommender API using Flask into production on our web app.</li>
     <li>Fixed bugs in the visualization of validation metrics for the topic aggregates in internal systems.</li>
@@ -12,7 +12,7 @@
   </ul>
 </details>
 <details>
-<summary>Software Engineer at <a href="https://www.oracle.com/in/index.html"> Oracle Systems - Jul'14-Aug'17 </a> 🤖 </summary>
+<summary>Software Engineer at <a href="https://www.oracle.com/in/index.html"> Oracle Systems </a> - Jul'14-Aug'17 🤖 </summary>
   <ul>
     <li>Part of Interop specialist team responsible for qualifying different operating systems (Linux, Solaris, AIX, Windows, and Mac OS)  for various protocols (1G, 10G, IPoIB, FC, iSER, RDMA), patches and kernel versions for Z File System (ZFS) Storage family of products.</li>
     <li>Built extensive testing procedures as a part of the ZFS automation test by creating API modules and playlists for test cases, ensuring that errors are reported and fixed prior to the release.</li>
