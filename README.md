@@ -5,7 +5,10 @@
 <details>
 <summary>Machine Learning Intern (Data Recommendation) at <a href="https://flipboard.com/"> Flipboard</a> 🤖 </summary>
   <ul>
-    <li>Developed and shipped new product capability (AutoGen package) for the core product, to generate top recommended articles monthly for each topic in Flipboard’s database. Deployed article recommender API using Flask into production on our web app..</li>
+    <li>Developed and shipped new product capability (AutoGen package) for the core product, to generate top recommended articles monthly for each topic in Flipboard’s database. Deployed article recommender API using Flask into production on our web app.</li>
+    <li>Fixed bugs in the visualization of validation metrics for the topic aggregates in internal systems.<li>
+    <li>Enhanced searchability of topics generated from the topic extractor based on its velocity.<li>
+    <li>Designed, developed, and productionized an end to end machine learning project “Listicle classifier for news articles” with Python/PyTorch/AWS and integrated it into the Flipboard’s news feed extractor pipeline.<li>
   </ul>
 </details>
 <!--
