@@ -1,6 +1,13 @@
 ### Hello Coders, This is Ikram 👋
 #### Data Scientist with 3+ years of software engineering experience, and extensive exposure to Big Data Analytics.
 
+<h3>Professional Experience💻</h3>
+<details>
+<summary>Machine Learning Intern (Data Recommendation) at <a href="https://flipboard.com/"> Flipboard</a> 🤖 </summary>
+  <ul>
+    <li>Developed and shipped new product capability (AutoGen package) for the core product, to generate top recommended articles monthly for each topic in Flipboard’s database. Deployed article recommender API using Flask into production on our web app..</li>
+  </ul>
+</details>
 <!--
 **SyedIkram/SyedIkram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
