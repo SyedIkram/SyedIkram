@@ -83,3 +83,4 @@ Currently exploring RAG pipelines and LLM-powered data systems. Open to Lead/Sen
 #### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iksyed-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/iksyed/)
+[![Email](https://img.shields.io/badge/Email-syedikram62@gmail.com-red?style=flat&logo=gmail)](mailto:syedikram62@gmail.com)
