@@ -2,6 +2,8 @@
 
 Lead Data Engineer with 10+ years across data engineering, machine learning, and software engineering. I build data platforms from zero and scale them — from founding an entire data function at a startup to leading 14 engineers at Best Buy Canada.
 
+Currently exploring RAG pipelines and LLM-powered data systems. Open to Lead/Senior Data Engineering roles in Toronto.
+
 ---
 
 #### What I Do
