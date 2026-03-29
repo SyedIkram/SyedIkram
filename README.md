@@ -1,35 +1,83 @@
-### Hello Coders, This is Ikram 👋
-#### Data Scientist with 3+ years of software engineering experience, and extensive exposure to Big Data Analytics.
+### Hey, I'm Ikram
 
-<h4>Professional Experience💻</h4>
+Lead Data Engineer with 10+ years across data engineering, machine learning, and software engineering. I build data platforms from zero and scale them — from founding an entire data function at a startup to leading 14 engineers at Best Buy Canada.
+
+---
+
+#### What I Do
+
+- Design and build end-to-end data platforms (batch + streaming, medallion architecture, facts/dimensions)
+- Lead data engineering teams — hiring, mentoring, and shipping
+- Bridge data engineering and ML — from pipelines to production models
+
+#### Tech I Work With
+
+**Data Engineering:** Apache Spark, PySpark, Airflow (MWAA), AWS Glue, Databricks, Snowflake, Delta Lake, Azure Data Factory, Synapse
+
+**Cloud:** AWS (S3, Redshift, RDS, DynamoDB, Lambda) · Azure (Data Lake Gen2, SQL Server, CosmosDB)
+
+**ML & AI:** PyTorch, Keras, scikit-learn, SparkML, NLP
+
+**Languages:** Python, SQL, JavaScript
+
+---
+
+#### Professional Experience
+
 <details>
-<summary>Machine Learning Intern (Data Recommendation) at <a href="https://flipboard.com/"> Flipboard </a> - Sep'19-Dec'19 🤖 </summary>
-  <ul>
-    <li>Developed and shipped new product capability (AutoGen package) for the core product, to generate top recommended articles monthly for each topic in Flipboard’s database. Deployed article recommender API using Flask into production on our web app.</li>
-    <li>Fixed bugs in the visualization of validation metrics for the topic aggregates in internal systems.</li>
-    <li>Enhanced searchability of topics generated from the topic extractor based on its velocity.</li>
-    <li>Designed, developed, and productionized an end to end machine learning project “Listicle classifier for news articles” with Python/PyTorch/AWS and integrated it into the Flipboard’s news feed extractor pipeline.</li>
-  </ul>
+<summary><b>Lead Data Engineer</b> at <a href="https://talkshoplive.com">TalkShopLive</a> — Oct 2023 – Mar 2026</summary>
+<ul>
+  <li>Founded the data engineering function from zero — built the entire data platform, pipelines, and analytics infrastructure as the first data hire.</li>
+  <li>Architected a real-time video analytics system processing millions of events across iOS, Android, Web, and SDK platforms.</li>
+  <li>Designed and implemented a custom clickstream collection system (build vs. buy decision that saved significant vendor costs).</li>
+</ul>
 </details>
+
 <details>
-<summary>Software Engineer at <a href="https://www.oracle.com/in/index.html"> Oracle Systems </a> - Jul'14-Aug'17 🤖 </summary>
-  <ul>
-    <li>Part of Interop specialist team responsible for qualifying different operating systems (Linux, Solaris, AIX, Windows, and Mac OS)  for various protocols (1G, 10G, IPoIB, FC, iSER, RDMA), patches and kernel versions for Z File System (ZFS) Storage family of products.</li>
-    <li>Built extensive testing procedures as a part of the ZFS automation test by creating API modules and playlists for test cases, ensuring that errors are reported and fixed prior to the release.</li>
-    <li>Led an agile project for simulation of high-priority customer-facing software failures scenarios and developed testing methodologies for software upgrade scenarios with functional and regression tests.</li>
-  </ul>
+<summary><b>Lead Data Engineer</b> at <a href="https://www.bestbuy.ca">Best Buy Canada</a> — Sep 2020 – Sep 2023</summary>
+<ul>
+  <li>Led a team of 14 data engineers (onshore + offshore) delivering data products across the organization.</li>
+  <li>Built an ML-driven Margin Based Bidding system that generated $1M+ in incremental revenue.</li>
+  <li>Established data governance practices and engineering standards across the data platform.</li>
+</ul>
 </details>
-<!--
-**SyedIkram/SyedIkram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details>
+<summary><b>Machine Learning Intern</b> at <a href="https://flipboard.com">Flipboard</a> — Sep 2019 – Dec 2019</summary>
+<ul>
+  <li>Developed and shipped AutoGen — a recommendation engine generating top articles monthly for each topic in Flipboard's database.</li>
+  <li>Built and productionized a listicle classifier for news articles using Python/PyTorch/AWS, integrated into the news feed pipeline.</li>
+</ul>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary><b>Software Engineer II</b> at <a href="https://www.oracle.com">Oracle</a> — Jul 2014 – Aug 2017</summary>
+<ul>
+  <li>Interop specialist for ZFS Storage products — qualified OS/protocol/kernel combinations across Linux, Solaris, AIX, Windows, and Mac OS.</li>
+  <li>Built API modules and automated testing for ZFS test infrastructure.</li>
+  <li>Led an agile project simulating high-priority customer-facing failure scenarios.</li>
+</ul>
+</details>
+
+---
+
+#### Education
+
+**MSc Computer Science** — Simon Fraser University (Big Data & Machine Learning, GPA 3.74)
+
+**BEng Computer Science** — NIE India (9.2/10)
+
+---
+
+#### Featured Projects
+
+- [CryptoIntel](https://github.com/SyedIkram/CryptoIntel) — Crypto analytics dashboard with sentiment analysis, LSTM predictions, and topic modeling
+- [Semantic Search for Audio](https://github.com/SyedIkram/Semantic-Search-for-speeches-in-Audio) — NLP-powered semantic search across speech audio
+- [Defence Against One-Pixel Attack](https://github.com/SyedIkram/Defence-Mechanisms-Against-One-Pixel-Attack) — Neural network defence mechanisms against adversarial attacks
+- [Yelp Dataset Analysis](https://github.com/SyedIkram/Analysis-and-Recommendations-on-YELP-Dataset) — Recommendation engine built with PySpark MLlib
+
+---
+
+#### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iksyed-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/iksyed/)
