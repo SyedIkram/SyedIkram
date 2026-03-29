@@ -1,6 +1,6 @@
 ### Hey, I'm Ikram
 
-Lead Data Engineer with 10+ years across data engineering, machine learning, and software engineering. I build data platforms from zero and scale them — from founding an entire data function from scratch to leading teams of 14+ engineers.
+Lead Data Engineer with 10+ years across data engineering, machine learning, and software engineering. I build data platforms from zero and scale them — from founding an entire data function from scratch to leading large data teams.
 
 Currently exploring RAG pipelines and LLM-powered data systems. Open to Lead/Senior Data Engineering roles in Toronto.
 
