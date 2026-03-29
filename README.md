@@ -65,7 +65,7 @@ Lead Data Engineer with 10+ years across data engineering, machine learning, and
 
 **MSc Computer Science** — Simon Fraser University (Big Data & Machine Learning, GPA 3.74)
 
-**BEng Computer Science** — NIE India (9.2/10)
+**BEng Computer Science** — National Institute of Engineering, India (9.2/10)
 
 ---
 
