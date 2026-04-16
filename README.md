@@ -2,7 +2,7 @@
 
 Lead Data Engineer with 10+ years across data engineering, machine learning, and software engineering. I build data platforms from the ground up and scale them.
 
-Currently exploring RAG pipelines and LLM-powered data systems. Open to Lead/Senior Data Engineering roles in Toronto.
+Currently exploring RAG and LLM-powered data systems. Open to Lead/Senior Data Engineering roles in Toronto.
 
 ---
 
